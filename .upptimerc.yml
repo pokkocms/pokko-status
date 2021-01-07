@@ -17,12 +17,10 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /
   logoUrl: https://cdn.pokko.io/p/pokko-sharing.png
-  name: Pokko - Status
-  introTitle: "**Pokko** uptime monitor and status page."
+  name: System status
+  introTitle: "**Pokko** uptime monitor and system status."
   introMessage: Real time system status for the entire Pokko ecosystem
   navbar:
-    - title: Status
-      href: /
     - title: Pokko
       href: https://www.pokko.io/
     - title: Login
