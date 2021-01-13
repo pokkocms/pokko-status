@@ -22,18 +22,20 @@
     "url": "https://au-syd1.pokko.io",
     "icon": "https://favicons.githubusercontent.com/au-syd1.pokko.io",
     "slug": "pokko-au-syd1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 698,
-    "timeDay": 739,
+    "timeDay": 719,
     "timeWeek": 698,
     "timeMonth": 698,
     "timeYear": 698,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-13": 0
+    }
   },
   {
     "name": "Pokko - auth service",
