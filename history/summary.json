@@ -22,19 +22,19 @@
     "url": "https://au-syd1.pokko.io",
     "icon": "https://favicons.githubusercontent.com/au-syd1.pokko.io",
     "slug": "pokko-au-syd1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 719,
-    "timeWeek": 698,
-    "timeMonth": 698,
-    "timeYear": 698,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 697,
+    "timeDay": 708,
+    "timeWeek": 697,
+    "timeMonth": 697,
+    "timeYear": 697,
     "dailyMinutesDown": {
-      "2021-01-13": 0
+      "2021-01-13": 28
     }
   },
   {
