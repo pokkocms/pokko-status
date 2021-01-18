@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 284,
-    "timeWeek": 376,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 319,
+    "timeDay": 127,
+    "timeWeek": 367,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/au-syd1.pokko.io",
     "slug": "pokko-au-syd1",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 703,
-    "timeDay": 748,
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 700,
+    "timeDay": 643,
     "timeWeek": 699,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2021-01-13": 28
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 682,
-    "timeWeek": 695,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "time": 686,
+    "timeDay": 640,
+    "timeWeek": 686,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {}
   }
 ]
