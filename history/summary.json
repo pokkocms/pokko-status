@@ -4,19 +4,19 @@
     "url": "https://www.pokko.io",
     "icon": "https://favicons.githubusercontent.com/www.pokko.io",
     "slug": "pokko",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 601,
-    "timeWeek": 394,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 346,
+    "timeDay": 480,
+    "timeWeek": 390,
     "timeMonth": 370,
-    "timeYear": 345,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2021-02-09": 0
+      "2021-02-09": 7
     }
   },
   {
