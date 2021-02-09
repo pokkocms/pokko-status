@@ -4,9 +4,9 @@
     "url": "https://www.pokko.io",
     "icon": "https://favicons.githubusercontent.com/www.pokko.io",
     "slug": "pokko",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 394,
     "timeMonth": 370,
     "timeYear": 345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-09": 0
+    }
   },
   {
     "name": "Pokko - au-syd1",
@@ -23,13 +25,13 @@
     "icon": "https://favicons.githubusercontent.com/au-syd1.pokko.io",
     "slug": "pokko-au-syd1",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "98.77%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 692,
-    "timeDay": 778,
+    "timeDay": 681,
     "timeWeek": 701,
     "timeMonth": 693,
     "timeYear": 692,
