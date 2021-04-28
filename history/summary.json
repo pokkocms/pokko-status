@@ -4,9 +4,9 @@
     "url": "https://www.pokko.io",
     "icon": "https://favicons.githubusercontent.com/www.pokko.io",
     "slug": "pokko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 275,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2021-04-28": 0,
       "2021-02-22": 7,
       "2021-02-09": 7
     }
