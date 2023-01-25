@@ -25,10 +25,10 @@
     "url": "https://au-syd1.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/au-syd1.pokko.io.ico",
     "slug": "pokko-au-syd1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 667,
@@ -37,6 +37,7 @@
     "timeMonth": 615,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-14": 15,
       "2022-06-14": 24,
       "2022-04-07": 57
@@ -47,9 +48,9 @@
     "url": "https://id.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/id.pokko.io.ico",
     "slug": "pokko-auth-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -59,6 +60,7 @@
     "timeMonth": 611,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-12-14": 15,
       "2022-06-14": 24,
       "2022-04-07": 57
