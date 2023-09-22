@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 607,
-    "timeWeek": 287,
-    "timeMonth": 234,
+    "timeDay": 236,
+    "timeWeek": 284,
+    "timeMonth": 240,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2022-11-08": 21
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 788,
-    "timeDay": 576,
-    "timeWeek": 722,
-    "timeMonth": 915,
-    "timeYear": 840,
+    "timeDay": 676,
+    "timeWeek": 693,
+    "timeMonth": 907,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2023-01-25": 18,
       "2022-12-14": 15
@@ -47,17 +47,16 @@
     "slug": "pokko-auth-service",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 827,
-    "timeDay": 473,
-    "timeWeek": 630,
-    "timeMonth": 906,
+    "timeDay": 472,
+    "timeWeek": 600,
+    "timeMonth": 888,
     "timeYear": 894,
     "dailyMinutesDown": {
-      "2023-09-21": 10,
       "2023-01-25": 18,
       "2022-12-14": 15
     }
