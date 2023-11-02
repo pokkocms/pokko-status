@@ -4,18 +4,19 @@
     "url": "https://www.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.pokko.io.ico",
     "slug": "pokko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
+    "time": 265,
     "timeDay": 562,
     "timeWeek": 324,
     "timeMonth": 248,
     "timeYear": 241,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2022-11-08": 21
     }
   },
