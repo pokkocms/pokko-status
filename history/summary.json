@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 193,
-    "timeWeek": 283,
-    "timeMonth": 255,
-    "timeYear": 239,
-    "dailyMinutesDown": {
-      "2022-11-08": 21
-    }
+    "timeDay": 275,
+    "timeWeek": 273,
+    "timeMonth": 256,
+    "timeYear": 240,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pokko - au-syd1",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 801,
-    "timeDay": 728,
-    "timeWeek": 706,
-    "timeMonth": 760,
+    "timeDay": 798,
+    "timeWeek": 702,
+    "timeMonth": 764,
     "timeYear": 861,
     "dailyMinutesDown": {
       "2023-01-25": 18,
@@ -51,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 838,
-    "timeDay": 726,
-    "timeWeek": 697,
-    "timeMonth": 761,
+    "time": 839,
+    "timeDay": 931,
+    "timeWeek": 710,
+    "timeMonth": 769,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2023-01-25": 18,
