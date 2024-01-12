@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 85,
-    "timeWeek": 240,
-    "timeMonth": 221,
+    "timeDay": 274,
+    "timeWeek": 223,
+    "timeMonth": 228,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 821,
-    "timeDay": 651,
-    "timeWeek": 709,
-    "timeMonth": 771,
-    "timeYear": 887,
+    "time": 822,
+    "timeDay": 959,
+    "timeWeek": 768,
+    "timeMonth": 791,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pokko.io.ico",
     "slug": "pokko-auth-service",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 836,
-    "timeWeek": 758,
-    "timeMonth": 783,
-    "timeYear": 945,
+    "time": 859,
+    "timeDay": 979,
+    "timeWeek": 822,
+    "timeMonth": 796,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2023-01-25": 18
     }
