@@ -22,18 +22,20 @@
     "url": "https://au-syd1.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/au-syd1.pokko.io.ico",
     "slug": "pokko-au-syd1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 829,
-    "timeDay": 851,
-    "timeWeek": 792,
-    "timeMonth": 744,
-    "timeYear": 889,
-    "dailyMinutesDown": {}
+    "timeDay": 555,
+    "timeWeek": 725,
+    "timeMonth": 729,
+    "timeYear": 887,
+    "dailyMinutesDown": {
+      "2024-02-12": 0
+    }
   },
   {
     "name": "Pokko - auth service",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 870,
-    "timeDay": 561,
+    "timeDay": 741,
     "timeWeek": 728,
     "timeMonth": 747,
     "timeYear": 925,
