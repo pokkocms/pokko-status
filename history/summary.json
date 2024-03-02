@@ -40,19 +40,19 @@
     "url": "https://id.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/id.pokko.io.ico",
     "slug": "pokko-auth-service",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 474,
-    "timeWeek": 693,
-    "timeMonth": 723,
+    "time": 878,
+    "timeDay": 634,
+    "timeWeek": 722,
+    "timeMonth": 730,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2024-03-02": 0
+      "2024-03-02": 7
     }
   }
 ]
