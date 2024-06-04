@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 296,
-    "timeWeek": 277,
-    "timeMonth": 299,
+    "timeDay": 99,
+    "timeWeek": 253,
+    "timeMonth": 294,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 803,
-    "timeWeek": 797,
-    "timeMonth": 752,
-    "timeYear": 826,
+    "time": 856,
+    "timeDay": 819,
+    "timeWeek": 808,
+    "timeMonth": 750,
+    "timeYear": 824,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,15 @@
     "slug": "pokko-auth-service",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 694,
-    "timeWeek": 794,
-    "timeMonth": 750,
-    "timeYear": 861,
-    "dailyMinutesDown": {
-      "2024-06-03": 7
-    }
+    "time": 883,
+    "timeDay": 746,
+    "timeWeek": 805,
+    "timeMonth": 746,
+    "timeYear": 860,
+    "dailyMinutesDown": {}
   }
 ]
