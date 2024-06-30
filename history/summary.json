@@ -4,7 +4,7 @@
     "url": "https://www.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.pokko.io.ico",
     "slug": "pokko",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 231,
     "timeMonth": 262,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-30": 0
+    }
   },
   {
     "name": "Pokko - au-syd1",
