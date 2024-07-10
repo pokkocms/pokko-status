@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 270,
-    "timeWeek": 300,
-    "timeMonth": 265,
+    "timeDay": 330,
+    "timeWeek": 333,
+    "timeMonth": 266,
     "timeYear": 260,
     "dailyMinutesDown": {}
   },
@@ -22,19 +22,19 @@
     "url": "https://au-syd1.pokko.io",
     "icon": "https://icons.duckduckgo.com/ip3/au-syd1.pokko.io.ico",
     "slug": "pokko-au-syd1",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.93%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 853,
-    "timeDay": 764,
-    "timeWeek": 813,
-    "timeMonth": 820,
-    "timeYear": 806,
+    "time": 865,
+    "timeDay": 2935,
+    "timeWeek": 1540,
+    "timeMonth": 1009,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2024-07-10": 2,
+      "2024-07-10": 8,
       "2024-06-25": 27
     }
   },
@@ -45,17 +45,17 @@
     "slug": "pokko-auth-service",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 878,
-    "timeDay": 803,
-    "timeWeek": 837,
-    "timeMonth": 793,
+    "timeDay": 799,
+    "timeWeek": 832,
+    "timeMonth": 789,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2024-07-10": 0
+      "2024-07-10": 8
     }
   }
 ]
